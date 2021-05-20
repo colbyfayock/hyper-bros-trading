@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 
-import { useCart } from '@hooks/use-cart.js';
 import { Product, getAllProducts, getProductBySlug } from '@lib/products';
 
 import Layout from '@components/Layout';

@@ -1,16 +1,16 @@
+import { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { FaShoppingCart } from 'react-icons/fa';
 
-import { useCart } from '@hooks/use-cart.js';
-import { useGames } from '@hooks/use-games.js';
-
 import Container from '@components/Container';
+
+import { useSnipcart } from '@hooks/use-snipcart';
 
 import styles from './Header.module.scss';
 
 const Header = () => {
-  const { subtotal, cartItems } = useCart();
-
+  const { cart = {} } = useSnipcart();
+  const { subtotal = '0.00' } = cart;
   return (
     <div>
       <header className={styles.header}>
@@ -27,38 +27,12 @@ const Header = () => {
               <button className={`snipcart-checkout snipcart-summary ${styles.cartSubtotalButton}`}>
                 <FaShoppingCart className={styles.cartIcon} />
                 <strong className="sr-only">Cart</strong>
-                <span className="snipcart-total-price">${subtotal.toFixed(2)}</span>
+                <span className="snipcart-total-price">${ subtotal }</span>
               </button>
             </p>
           </div>
         </Container>
       </header>
-      {/* <nav className={styles.nav}>
-        <Container>
-          <ul className={styles.navLinks}>
-            <li>
-              <a href="#">
-                Xbox Series X
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                Playstation 5
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                Nintendo Switch
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                PC
-              </a>
-            </li>
-          </ul>
-        </Container>
-      </nav> */}
     </div>
   )
 }

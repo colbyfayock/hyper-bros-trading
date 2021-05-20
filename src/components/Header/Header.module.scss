@@ -47,25 +47,6 @@
 }
 
 .cartIcon {
+  color: $colorYellow;
   margin-right: .5em;
-}
-
-.nav {
-  color: white;
-  background-color: $colorGreen;
-  padding: .5em 0;
-}
-
-.navLinks {
-
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-
-  li {
-    margin: 0 1em;
-  }
-
 }
