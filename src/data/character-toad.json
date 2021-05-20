@@ -1,0 +1,2119 @@
+{
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+        "aliases": null,
+        "api_detail_url": "https://www.giantbomb.com/api/character/3005-845/",
+        "birthday": null,
+        "concepts": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-660/",
+                "id": 660,
+                "name": "2.5D",
+                "site_detail_url": "https://www.giantbomb.com/25d/3015-660/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3131/",
+                "id": 3131,
+                "name": "Albatoss",
+                "site_detail_url": "https://www.giantbomb.com/albatoss/3015-3131/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3018/",
+                "id": 3018,
+                "name": "All Cup Tour",
+                "site_detail_url": "https://www.giantbomb.com/all-cup-tour/3015-3018/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-8433/",
+                "id": 8433,
+                "name": "amiibo",
+                "site_detail_url": "https://www.giantbomb.com/amiibo/3015-8433/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-476/",
+                "id": 476,
+                "name": "Anthropomorphism",
+                "site_detail_url": "https://www.giantbomb.com/anthropomorphism/3015-476/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3011/",
+                "id": 3011,
+                "name": "Bonus Stars",
+                "site_detail_url": "https://www.giantbomb.com/bonus-stars/3015-3011/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1060/",
+                "id": 1060,
+                "name": "Charge",
+                "site_detail_url": "https://www.giantbomb.com/charge/3015-1060/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1102/",
+                "id": 1102,
+                "name": "Combat Racing",
+                "site_detail_url": "https://www.giantbomb.com/combat-racing/3015-1102/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-2866/",
+                "id": 2866,
+                "name": "Cooperative Driving",
+                "site_detail_url": "https://www.giantbomb.com/cooperative-driving/3015-2866/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1/",
+                "id": 1,
+                "name": "Double Jump",
+                "site_detail_url": "https://www.giantbomb.com/double-jump/3015-1/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-592/",
+                "id": 592,
+                "name": "Dreams",
+                "site_detail_url": "https://www.giantbomb.com/dreams/3015-592/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3782/",
+                "id": 3782,
+                "name": "e-Reader",
+                "site_detail_url": "https://www.giantbomb.com/e-reader/3015-3782/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3053/",
+                "id": 3053,
+                "name": "Enemy Tossing",
+                "site_detail_url": "https://www.giantbomb.com/enemy-tossing/3015-3053/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-7239/",
+                "id": 7239,
+                "name": "Excitebike",
+                "site_detail_url": "https://www.giantbomb.com/excitebike/3015-7239/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3328/",
+                "id": 3328,
+                "name": "False Protagonist",
+                "site_detail_url": "https://www.giantbomb.com/false-protagonist/3015-3328/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-2342/",
+                "id": 2342,
+                "name": "Flattening",
+                "site_detail_url": "https://www.giantbomb.com/flattening/3015-2342/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-6761/",
+                "id": 6761,
+                "name": "Hoopster",
+                "site_detail_url": "https://www.giantbomb.com/hoopster/3015-6761/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1741/",
+                "id": 1741,
+                "name": "Item Throw",
+                "site_detail_url": "https://www.giantbomb.com/item-throw/3015-1741/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-336/",
+                "id": 336,
+                "name": "Kart Racer",
+                "site_detail_url": "https://www.giantbomb.com/kart-racer/3015-336/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1202/",
+                "id": 1202,
+                "name": "Laps",
+                "site_detail_url": "https://www.giantbomb.com/laps/3015-1202/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3010/",
+                "id": 3010,
+                "name": "Last Five Turns Event",
+                "site_detail_url": "https://www.giantbomb.com/last-five-turns-event/3015-3010/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-675/",
+                "id": 675,
+                "name": "Luma",
+                "site_detail_url": "https://www.giantbomb.com/luma/3015-675/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1163/",
+                "id": 1163,
+                "name": "Mascot Sports",
+                "site_detail_url": "https://www.giantbomb.com/mascot-sports/3015-1163/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-116/",
+                "id": 116,
+                "name": "Minigames",
+                "site_detail_url": "https://www.giantbomb.com/minigames/3015-116/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-566/",
+                "id": 566,
+                "name": "Orbs",
+                "site_detail_url": "https://www.giantbomb.com/orbs/3015-566/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-6075/",
+                "id": 6075,
+                "name": "Paragoomba",
+                "site_detail_url": "https://www.giantbomb.com/paragoomba/3015-6075/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-466/",
+                "id": 466,
+                "name": "Party Games",
+                "site_detail_url": "https://www.giantbomb.com/party-games/3015-466/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-2928/",
+                "id": 2928,
+                "name": "Phanto",
+                "site_detail_url": "https://www.giantbomb.com/phanto/3015-2928/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-7753/",
+                "id": 7753,
+                "name": "Pixel Art",
+                "site_detail_url": "https://www.giantbomb.com/pixel-art/3015-7753/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3263/",
+                "id": 3263,
+                "name": "PlayChoice-10",
+                "site_detail_url": "https://www.giantbomb.com/playchoice-10/3015-3263/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-968/",
+                "id": 968,
+                "name": "Player Character",
+                "site_detail_url": "https://www.giantbomb.com/player-character/3015-968/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-2734/",
+                "id": 2734,
+                "name": "Repetitive Chitchat",
+                "site_detail_url": "https://www.giantbomb.com/repetitive-chitchat/3015-2734/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-2202/",
+                "id": 2202,
+                "name": "Sentient Plant",
+                "site_detail_url": "https://www.giantbomb.com/sentient-plant/3015-2202/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-299/",
+                "id": 299,
+                "name": "Side-Scrolling",
+                "site_detail_url": "https://www.giantbomb.com/side-scrolling/3015-299/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1286/",
+                "id": 1286,
+                "name": "Soccer Player",
+                "site_detail_url": "https://www.giantbomb.com/soccer-player/3015-1286/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3973/",
+                "id": 3973,
+                "name": "Spiny",
+                "site_detail_url": "https://www.giantbomb.com/spiny/3015-3973/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-491/",
+                "id": 491,
+                "name": "Sprite",
+                "site_detail_url": "https://www.giantbomb.com/sprite/3015-491/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1326/",
+                "id": 1326,
+                "name": "Suicide Track",
+                "site_detail_url": "https://www.giantbomb.com/suicide-track/3015-1326/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3432/",
+                "id": 3432,
+                "name": "Tennis",
+                "site_detail_url": "https://www.giantbomb.com/tennis/3015-3432/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-6675/",
+                "id": 6675,
+                "name": "Throwing Weapons",
+                "site_detail_url": "https://www.giantbomb.com/throwing-weapons/3015-6675/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-3369/",
+                "id": 3369,
+                "name": "Toads",
+                "site_detail_url": "https://www.giantbomb.com/toads/3015-3369/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-1413/",
+                "id": 1413,
+                "name": "Voice Acting",
+                "site_detail_url": "https://www.giantbomb.com/voice-acting/3015-1413/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-804/",
+                "id": 804,
+                "name": "Warp Zone",
+                "site_detail_url": "https://www.giantbomb.com/warp-zone/3015-804/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-852/",
+                "id": 852,
+                "name": "Warping",
+                "site_detail_url": "https://www.giantbomb.com/warping/3015-852/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/concept/3015-8031/",
+                "id": 8031,
+                "name": "Western Games Based on Japanese IPs",
+                "site_detail_url": "https://www.giantbomb.com/western-games-based-on-japanese-ips/3015-8031/"
+            }
+        ],
+        "date_added": "2008-07-21 22:23:58",
+        "date_last_updated": "2016-07-07 04:20:16",
+        "deck": "The Toad is a member of the Toad species. He is a  loyal attendant of Princess Peach and often assists Mario on his journeys in a variety of ways.",
+        "description": "<h2>Overview</h2><p>Toad is a recurring character in the Mario franchise. He is part of an eponymous species, a sapient anthropomorphic and peaceful clan of mushroom-like people, habitants of <a href=\"/the-mushroom-kingdom/3035-14/\" data-ref-id=\"3035-14\">The Mushroom Kingdom</a>. He is an attendant of <a href=\"/princess-peach/3005-709/\" data-ref-id=\"3005-709\">Princess Peach</a>, leader of the Mushroom Kingdom.</p><p>Toad has appeared in countless <a href=\"/mario/3025-1/\" data-ref-id=\"3025-1\">Mario franchise</a> titles, being playable within certain titles and a non-playable accompaniment in other ones.</p><h2>Character</h2><figure data-align=\"right\" data-img-src=\"https://static.giantbomb.com/uploads/original/0/2714/358709-me0000532013_2.jpg\" data-ref-id=\"1300-358709\" data-size=\"small\" data-ratio=\"1.5705521472393\" data-width=\"652\" data-embed-type=\"image\" style=\"width: 652px\"><a class=\"fluid-height\" style=\"padding-bottom:157.1%\" href=\"https://static.giantbomb.com/uploads/original/0/2714/358709-me0000532013_2.jpg\" data-ref-id=\"1300-358709\"><img alt=\"No Caption Provided\" src=\"https://www.giantbomb.com/a/uploads/scale_small/0/2714/358709-me0000532013_2.jpg\" srcset=\"https://www.giantbomb.com/a/uploads/original/0/2714/358709-me0000532013_2.jpg 652w, https://www.giantbomb.com/a/uploads/scale_medium/0/2714/358709-me0000532013_2.jpg 611w, https://www.giantbomb.com/a/uploads/scale_small/0/2714/358709-me0000532013_2.jpg 407w\" sizes=\"(max-width: 407px) 100vw, 407px\" data-width=\"407\"></a></figure><p>Toad constantly travels onward with the cast, vowing to protect and the entire Mushroom Kingdom. Toad taking commands under his own hands prominently ends in failed attempts, resulting in achieving a handicapped victory during events of the princess's kidnapping.</p><p>Despite occasional displays of cowardice, Toad is notable for being one of very few characters who consistently aids Mario and his partners through a variety ways throughout their adventures to help the Mushroom Kingdom and other realms in the Super Mario universe.</p><p>As leader of the <a href=\"../../the-mushroom-kingdom/95-14/\" rel=\"nofollow \">Mushroom Kingdom</a> advisers, he is positioned closest to the royal command becoming a personal attendant to <a href=\"../../princess-peach/94-709/\" rel=\"nofollow \">Princess Peach Toadstool</a>.</p><h2>Background</h2><h3>NES to SNES</h3><figure data-align=\"right\" data-img-src=\"https://static.giantbomb.com/uploads/original/9/95666/1912000-mario_toad_luigi.png\" data-ref-id=\"1300-1912000\" data-size=\"small\" data-ratio=\"0.57176470588235\" data-width=\"425\" data-embed-type=\"image\" style=\"width: 425px\"><a class=\"fluid-height\" style=\"padding-bottom:57.2%\" href=\"https://static.giantbomb.com/uploads/original/9/95666/1912000-mario_toad_luigi.png\" data-ref-id=\"1300-1912000\"><img alt=\"No Caption Provided\" src=\"https://www.giantbomb.com/a/uploads/scale_small/9/95666/1912000-mario_toad_luigi.png\" srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912000-mario_toad_luigi.png 425w, https://www.giantbomb.com/a/uploads/scale_small/9/95666/1912000-mario_toad_luigi.png 320w\" sizes=\"(max-width: 320px) 100vw, 320px\" data-width=\"320\"></a></figure><p>In various games Toad is present as a non-playable supporting character, who gives items to <a href=\"/mario/3005-177/\" data-ref-id=\"3005-177\">Mario</a> and friends. For instance, he is present within the original <a href=\"/super-mario-bros/3030-15544/\" data-ref-id=\"3030-15544\">Super Mario Bros.</a> at the end of each castle, except the final one where Princess Peach is being kept. Toad's first gameplay recognition in North America is in <a href=\"../../super-mario-bros-2/61-7406/\" rel=\"nofollow \">Super Mario Bros. 2</a>, the remake.</p><p>In Toad's first encounters with adventure, he travels with Mario and co. into <a href=\"/sub-con/3035-352/\" data-ref-id=\"3035-352\">Sub-con</a>. Toad proves his age of emulation and worth of initiative by showing off his compelling strength more mightier than other people. He is considered the strength of the four playable character in the game.</p><p>In next generation games, Toad has marked his appearance in various Mario series spin-off games. He has a great range of apt speech, demonstrating his host prowess throughout the Mario Party series. Toad has become the staple for prolific speed in the Mario Kart series.</p><h2>Details</h2><h3>Trophy Description</h3><p><b>Super Smash Bros Melee</b></p><p><i><b>\"Toad</b>, Peach's longtime servant, first showed off his strength in Super Mario Bros. 2, then proved to be an agile driver in . There are many <b>Toads</b> in Peach's castle and across the Mushroom Kingdom, and although they look similar, they have varied natures. Not the best of guards, Toad must often be rescued.</i>\"</p><ul><li>Super Mario Bros.</li><li>10/85</li></ul><p><b>Super Smash Bros Brawl</b></p><p><i>\"One of the servants at Peach's Castle in the Mushroom Kingdom. Toads give off a strong sense of peace. Most feature white heads with red polka dots, but there are other colors as well. Toad's incredible uprooting speed in Super Mario Bros. 2 is unrivaled, adding to the rumor of his superhuman strength... however out of place it might seem.\"</i></p><ul><li>NES Super Mario Bros.</li><li>GCN Mario Kart: Double Dash!!</li></ul><h2>Special Appearances</h2><h3><a href=\"/super-mario-bros/3025-1899/\" data-ref-id=\"3025-1899\">Super Mario Bros.</a> series</h3><ul><li><b>Super Mario Bros.</b>: Toad is one of the recurring Mushroom Retainers characters within the Super Mario Bros. titles. Toad is a notable major supporting character within the games but lack persona and identity.</li></ul><h3><a href=\"/mario-tennis/3025-512/\" data-ref-id=\"3025-512\">Mario Tennis</a> series</h3><figure data-align=\"right\" data-img-src=\"https://static.giantbomb.com/uploads/original/9/95666/1907678-toad_mario_tennis_64.png\" data-ref-id=\"1300-1907678\" data-size=\"small\" data-ratio=\"1.34\" data-width=\"100\" data-embed-type=\"image\" style=\"width: 100px\"><a class=\"fluid-height\" style=\"padding-bottom:134.0%\" href=\"https://static.giantbomb.com/uploads/original/9/95666/1907678-toad_mario_tennis_64.png\" data-ref-id=\"1300-1907678\"><img alt=\"Toad in Mario Tennis\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" sizes=\"(max-width: 100px) 100vw, 100px\" data-width=\"100\" class=\"js-lazy-load-image\" data-src=\"https://www.giantbomb.com/a/uploads/original/9/95666/1907678-toad_mario_tennis_64.png\" data-srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1907678-toad_mario_tennis_64.png 100w\"><noscript><img alt=\"Toad in Mario Tennis\" src=\"https://www.giantbomb.com/a/uploads/original/9/95666/1907678-toad_mario_tennis_64.png\" srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1907678-toad_mario_tennis_64.png 100w\" sizes=\"(max-width: 100px) 100vw, 100px\" data-width=\"100\"></noscript></a><figcaption>Toad in Mario Tennis</figcaption></figure><ul><li><b>Mario Tennis (Virtual Boy)</b>: Toad makes his grand entrance into the Mario Tennis series by marking his first appearance in the Mario Tennis series as the default playable character in a lesser-known release of the <a href=\"/virtual-boy/3045-79/\" data-ref-id=\"3045-79\">Virtual Boy</a> game <a href=\"/marios-tennis/3030-14178/\" data-ref-id=\"3030-14178\">Mario's Tennis</a>.</li><li><b>Mario Tennis (Nintendo 64)</b>: Roles of notable position are in the playable appearance in <a href=\"/mario-tennis/3030-6073/\" data-ref-id=\"3030-6073\">Mario Tennis (64)</a> released for the as the technique player, once again becoming the role of a playable character.</li><li><b>Mario Tennis (GameBoy)</b>: While not having a notable appearance in <a href=\"/mario-tennis/3030-29973/\" data-ref-id=\"3030-29973\">Mario Tennis</a> Game Boy Color version he is transferable into the game with the Transfer Pack.</li></ul><h3><a href=\"/mario-party/3025-508/\" data-ref-id=\"3025-508\">Mario Party</a> series</h3><ul><li><b>Mario Party 5 (Game Cube):</b> With the introductory playable appearance of Toad in Mario Party 5, Toad has become a regular character in the Mario Party series.</li></ul><h3><a href=\"/mario-kart/3025-507/\" data-ref-id=\"3025-507\">Mario Kart</a> series</h3><figure data-align=\"right\" data-img-src=\"https://static.giantbomb.com/uploads/original/9/95666/1912003-toad_grand_prix.png\" data-ref-id=\"1300-1912003\" data-size=\"small\" data-ratio=\"1.0353982300885\" data-width=\"113\" data-embed-type=\"image\" style=\"width: 113px\"><a class=\"fluid-height\" style=\"padding-bottom:103.5%\" href=\"https://static.giantbomb.com/uploads/original/9/95666/1912003-toad_grand_prix.png\" data-ref-id=\"1300-1912003\"><img alt=\"No Caption Provided\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" sizes=\"(max-width: 113px) 100vw, 113px\" data-width=\"113\" class=\"js-lazy-load-image\" data-src=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912003-toad_grand_prix.png\" data-srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912003-toad_grand_prix.png 113w\"><noscript><img alt=\"No Caption Provided\" src=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912003-toad_grand_prix.png\" srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912003-toad_grand_prix.png 113w\" sizes=\"(max-width: 113px) 100vw, 113px\" data-width=\"113\"></noscript></a></figure><ul><li><b>Mario Kart Wii (Wii):</b> Toad represents the lightweight characters with his staple mark karts available among the lightweights.</li><li><b>Mario Kart 7 (Nintendo 3DS):</b> Toad is a playable character and brings in light the commands used for the game mechanics.</li></ul><h3><a href=\"/mario-sonic-at-the-olympic-games/3025-1223/\" data-ref-id=\"3025-1223\">Mario &amp; Sonic at the Olympic Games</a> series</h3><ul><li><b>Mario &amp; Sonic at the Olympic Winter Games</b>: Since neither Sonic or Mario can talk in the game, their dialogues are spoken out by the character <b>Toad</b>.</li></ul><h2>Profiles</h2><h3><a href=\"/mario-kart-double-dash/3030-18757/\" data-ref-id=\"3030-18757\">Mario Kart: Double Dash!!</a></h3><p><b>Bio</b></p><ul><li><i>\"Toad is small and fast, and with his Super Mushroom, he can give any kart a real boost. Unlock him by finishing the 100cc Special Cup with a 1st place win.\"</i></li></ul><h3><a href=\"/mario-party-8/3030-8362/\" data-ref-id=\"3030-8362\">Mario Party 8</a></h3><p><b>Site Bio</b></p><ul><li><i>\"Fun comes in all shapes and sizes, and tiny Toad is ready to show you he's a ton of fun!</i>\"</li></ul><p><b>Team Member Formation Names</b></p><ul><li><b>Mario:</b> Fungi Fun Guys</li><li><b>Luigi:</b> Savage Sidekicks</li><li><b>Peach:</b> Loyal Friends</li><li><b>Yoshi:</b> Good Buddies</li><li><b>Wario:</b> Crazy Allies</li><li><b>Daisy:</b> Bloomy Shroomy</li><li><b>Waluigi:</b> Half-Cranky Duo</li><li><b>Boo:</b> Doom 'n' Shroom</li><li><b>Toadette:</b> Zoomin' Shrooms</li><li><b>Birdo:</b> Surprise Attackers</li><li><b>Dry Bones:</b> Short Ribs</li><li><b>Blooper:</b> Spray Players</li><li><b>Hammer Bro.:</b> Stealth Strikers</li><li>Rosilina</li></ul><h3><a href=\"/mario-party-ds/3030-21186/\" data-ref-id=\"3030-21186\">Mario Party DS</a></h3><p><b>Site Bio</b></p><ul><li><i>\"Typically not the star of the show, Toad takes a lead role in Mario Party DS - he knows how to party!\"</i></li></ul><p><b>Bio</b></p><ul><li>\"<i>Princess Peach's subject. Though he tries to protect the princess from the evil Bowser, she gets kidnapped with disturbing regularity. There are many Toads who look just alike, and though they are generally small and look cute, they are actually quite powerful.</i>\"</li></ul><h2>Physical Attributes</h2><p><b>Toad</b> appearance in the Mario series franchise stipulates the basic attributes of the rest of his species.</p><h2>Other Toads</h2><figure data-align=\"right\" data-img-src=\"https://static.giantbomb.com/uploads/original/0/389/335980-smg_toad_species_.jpg\" data-ref-id=\"1300-335980\" data-size=\"small\" data-ratio=\"0.51706308169597\" data-width=\"967\" data-embed-type=\"image\" style=\"width: 967px\"><a class=\"fluid-height\" style=\"padding-bottom:51.7%\" href=\"https://static.giantbomb.com/uploads/original/0/389/335980-smg_toad_species_.jpg\" data-ref-id=\"1300-335980\"><img alt=\"No Caption Provided\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" sizes=\"(max-width: 320px) 100vw, 320px\" data-width=\"320\" class=\"js-lazy-load-image\" data-src=\"https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png\" data-srcset=\"https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 967w, https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 960w, https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 480w, https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 320w\"><noscript><img alt=\"No Caption Provided\" src=\"https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png\" srcset=\"https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 967w, https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 960w, https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 480w, https://www.giantbomb.com/a/bundles/phoenixsite/images/core/loose/img_broken.png 320w\" sizes=\"(max-width: 320px) 100vw, 320px\" data-width=\"320\"></noscript></a></figure><p>Like the Mario franchise race of <a href=\"/yoshi/3005-700/\" data-ref-id=\"3005-700\">Yoshi</a>, principle role Toads have appeared with alternate coloration in different games throughout the Mario series timeline.</p><p>Toads are a race of Mushroom People that are peaceful lively bunch as well as the most loyal attendants to Princess Peach. They are at the end of every castle in the original <a href=\"../../super-mario-bros/61-15544/\" rel=\"nofollow \">Super Mario Bros.</a> known as the Mushroom Retainers having been rescued within each present location<b>.</b></p><h3>Red Toad</h3><p>The Red Toads are seen within the Mario series as the most prominent and most common amongst all types of Toads. They're primarily seen in two forms: (a.) the Red Toads sporting the blue vest (with the character Toad being primary recognized), and (b.) the Red Toads wearing a red vest. Red Toads appearing with the red vests have their first appearance in <a href=\"/super-mario-sunshine/3030-6649/\" data-ref-id=\"3030-6649\">Super Mario Sunshine</a>. In <a href=\"/mario-superstar-baseball/3030-814/\" data-ref-id=\"3030-814\">Mario Superstar Baseball</a> and Red Toad is playable, along with Blue Toad, Yellow Toad, Green Toad and Purple Toad.</p><p>The character Toad himself is a Red Toad, though often distinguishable through his blue vest.</p><h3>Blue Toad</h3><p>The Blue Toads are a species of Toads appearing in a few of the recent games. A Blue Toad is playable in <a href=\"/new-super-mario-bros-wii/3030-26841/\" data-ref-id=\"3030-26841\">New Super Mario Bros. Wii</a> and <a href=\"/new-super-mario-bros-u/3030-35574/\" data-ref-id=\"3030-35574\">New Super Mario Bros. U</a> in multiplayer mode.</p><h3>Yellow Toad</h3><p>The Yellow Toads are a species of Toads appearing in a few of the recent games. A Yellow Toad is playable in New Super Mario Bros. Wii and New Super Mario Bros. U in multiplayer mode.</p><h3>Green Toad</h3><p>The Green Toads are a species of Toads appearing in a few of the recent games.</p><h3>Purple Toad</h3><p>The Purple Toads are a species of Toads appearing in a few of the recent games.</p><h2>Misconceptions and Confusion</h2><figure data-align=\"right\" data-img-src=\"https://static.giantbomb.com/uploads/original/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png\" data-ref-id=\"1300-1912007\" data-size=\"small\" data-ratio=\"0.5625\" data-width=\"2560\" data-embed-type=\"image\" style=\"width: 2560px\"><a class=\"fluid-height\" style=\"padding-bottom:56.3%\" href=\"https://static.giantbomb.com/uploads/original/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png\" data-ref-id=\"1300-1912007\"><img alt=\"Blue Vested Red Toad in the Toad Brigade\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" sizes=\"(max-width: 960px) 100vw, 960px\" data-width=\"960\" class=\"js-lazy-load-image\" data-src=\"https://www.giantbomb.com/a/uploads/scale_super/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png\" data-srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png 2560w, https://www.giantbomb.com/a/uploads/scale_super/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png 960w, https://www.giantbomb.com/a/uploads/scale_medium/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png 480w\"><noscript><img alt=\"Blue Vested Red Toad in the Toad Brigade\" src=\"https://www.giantbomb.com/a/uploads/scale_super/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png\" srcset=\"https://www.giantbomb.com/a/uploads/original/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png 2560w, https://www.giantbomb.com/a/uploads/scale_super/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png 960w, https://www.giantbomb.com/a/uploads/scale_medium/9/95666/1912007-super_mario_galaxy_toads_toad_brigade_prologue.png 480w\" sizes=\"(max-width: 960px) 100vw, 960px\" data-width=\"960\"></noscript></a><figcaption>Blue Vested Red Toad in the Toad Brigade</figcaption></figure><p>The Red Toads of the Mushroom Kingdom often mingle in areas and define a fine line of misleading identity. The character named <b>Toad</b> is often more than mistaken for other members of The Mushroom Kingdom as their appearances are identical.</p><p><strong>Super Mario Bros.</strong></p><p>The infamous phrase...</p><blockquote><p><i>\"</i> <i>Thank you Mario! But our princess is in another castle!\"</i></p></blockquote><p>... is shared by all of the Mushroom Retainers and is not identified as the sole user of the phrase.</p><p><strong>New Super Mario Bros Wii</strong></p><p><strong>Toad</strong> is present in Miyamoto's 2010 greeting card featuring characters from NSMBW yet is not featured within Mario's adventuring crew.</p><p>In Super Mario Galaxy the Mushroom Brigade feature a headstrong leader Red Toad. His figure head and personality traits are similar to Toad's character, and the distinguishing line is far too canny of a similar tone.</p><h2>Voice Portrayal</h2><ul><li>John Stocker - <i>The Super Mario Bros. Super Show</i>, <i>The Adventures of Super Mario Bros. 3</i></li><li>Eriko Ibe - Mario Kart 64 (Japanese), <a href=\"/mario-party/3030-6424/\" data-ref-id=\"3030-6424\">Mario Party</a>, , <a href=\"/mario-party-3/3030-12447/\" data-ref-id=\"3030-12447\">Mario Party 3</a></li><li>Isaac Marshall - <a href=\"/mario-kart-64/3030-10084/\" data-ref-id=\"3030-10084\">Mario Kart 64</a></li><li>Nanae Sumitomo - <i>Satellaview game series titles</i> (1996 - 1998)</li><li>Jen Taylor - <a href=\"/mario-tennis/3030-6073/\" data-ref-id=\"3030-6073\">Mario Tennis</a>, <a href=\"/mario-sonic-at-the-olympic-games/3030-15205/\" data-ref-id=\"3030-15205\">Mario &amp; Sonic at the Olympic Games</a></li><li>Samantha Kelly - <a href=\"/mario-party-8/3030-8362/\" data-ref-id=\"3030-8362\">Mario Party 8</a></li></ul><h2>Etymology</h2><p>Toad's Japanese name is '<i>Kinopio</i>', which is the common shared species name similar with Toads.</p><h2>Fame Checker</h2><ul><li>The <i>Mushroom People</i> known as <b>Toads</b>, are the species same figure stature of the character <b>Toad,</b> that can be seen in over various games as The Mushroom Kingdom's general public audience.</li><li>Fanbases in Japan refer to Toad as the surname to differentiate from common ' <i>Kinopio</i>', a convention formulated from the series.</li><li>Toad is seen in a cameo form in the <a href=\"/animal-crossing/3025-32/\" data-ref-id=\"3025-32\">Animal Crossing</a> series, having his Mushroom Cap used as a helmet accessory within the game.</li><li>Toad Town, is made special mention by Gulliver of the Animal Crossing series during one of him many travels.</li><li>Toad makes a brief appearance in 's comedic sketch, \" <i>Due to Constraints of Time and Budget</i>\".</li><li>Mountain Goats &amp; Kaki King feature a <b>Toad</b> perspective song titled \" <i>Thank You Mario But Our Princess Is In Another Castle</i>\".</li></ul><h2>Fun Facts</h2><ul><li>Toads present within the beta version of <a href=\"/super-mario-galaxy/3030-16094/\" data-ref-id=\"3030-16094\">Super Mario Galaxy</a> had appropriated star-shaped spots as opposed to circle-shaped spots on their mushroom caps. It is currently unknown if these Toads were to be affiliated with <a href=\"/rosalina/3005-1236/\" data-ref-id=\"3005-1236\">Rosalina</a>.</li></ul>",
+        "enemies": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-14282/",
+                "id": 14282,
+                "name": "Army Hammer Bro",
+                "site_detail_url": "https://www.giantbomb.com/army-hammer-bro/3005-14282/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-957/",
+                "id": 957,
+                "name": "Birdo",
+                "site_detail_url": "https://www.giantbomb.com/birdo/3005-957/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-15565/",
+                "id": 15565,
+                "name": "Blizzaurus",
+                "site_detail_url": "https://www.giantbomb.com/blizzaurus/3005-15565/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-337/",
+                "id": 337,
+                "name": "Bowser",
+                "site_detail_url": "https://www.giantbomb.com/bowser/3005-337/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-825/",
+                "id": 825,
+                "name": "Bowser Jr.",
+                "site_detail_url": "https://www.giantbomb.com/bowser-jr/3005-825/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-8384/",
+                "id": 8384,
+                "name": "Bowyer",
+                "site_detail_url": "https://www.giantbomb.com/bowyer/3005-8384/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-12202/",
+                "id": 12202,
+                "name": "Clawgrip",
+                "site_detail_url": "https://www.giantbomb.com/clawgrip/3005-12202/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-299/",
+                "id": 299,
+                "name": "Donkey Kong",
+                "site_detail_url": "https://www.giantbomb.com/donkey-kong/3005-299/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-9445/",
+                "id": 9445,
+                "name": "Fryguy",
+                "site_detail_url": "https://www.giantbomb.com/fryguy/3005-9445/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-10309/",
+                "id": 10309,
+                "name": "Goomboss",
+                "site_detail_url": "https://www.giantbomb.com/goomboss/3005-10309/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-12201/",
+                "id": 12201,
+                "name": "Gooper Blooper",
+                "site_detail_url": "https://www.giantbomb.com/gooper-blooper/3005-12201/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-4043/",
+                "id": 4043,
+                "name": "Hammer Bro",
+                "site_detail_url": "https://www.giantbomb.com/hammer-bro/3005-4043/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-40271/",
+                "id": 40271,
+                "name": "Hellen Gravely",
+                "site_detail_url": "https://www.giantbomb.com/hellen-gravely/3005-40271/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-1227/",
+                "id": 1227,
+                "name": "Kamek",
+                "site_detail_url": "https://www.giantbomb.com/kamek/3005-1227/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-7550/",
+                "id": 7550,
+                "name": "Kammy Koopa",
+                "site_detail_url": "https://www.giantbomb.com/kammy-koopa/3005-7550/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-8753/",
+                "id": 8753,
+                "name": "King Bob-omb",
+                "site_detail_url": "https://www.giantbomb.com/king-bob-omb/3005-8753/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-3716/",
+                "id": 3716,
+                "name": "King Boo",
+                "site_detail_url": "https://www.giantbomb.com/king-boo/3005-3716/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-10401/",
+                "id": 10401,
+                "name": "Koopa Kid",
+                "site_detail_url": "https://www.giantbomb.com/koopa-kid/3005-10401/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-927/",
+                "id": 927,
+                "name": "Lakitu",
+                "site_detail_url": "https://www.giantbomb.com/lakitu/3005-927/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-2337/",
+                "id": 2337,
+                "name": "Lemmy Koopa",
+                "site_detail_url": "https://www.giantbomb.com/lemmy-koopa/3005-2337/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-4658/",
+                "id": 4658,
+                "name": "Mouser",
+                "site_detail_url": "https://www.giantbomb.com/mouser/3005-4658/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-1805/",
+                "id": 1805,
+                "name": "Petey Piranha",
+                "site_detail_url": "https://www.giantbomb.com/petey-piranha/3005-1805/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-1730/",
+                "id": 1730,
+                "name": "Smithy",
+                "site_detail_url": "https://www.giantbomb.com/smithy/3005-1730/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-9016/",
+                "id": 9016,
+                "name": "Tryclyde",
+                "site_detail_url": "https://www.giantbomb.com/tryclyde/3005-9016/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-785/",
+                "id": 785,
+                "name": "Waluigi",
+                "site_detail_url": "https://www.giantbomb.com/waluigi/3005-785/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-24/",
+                "id": 24,
+                "name": "Wario",
+                "site_detail_url": "https://www.giantbomb.com/wario/3005-24/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-831/",
+                "id": 831,
+                "name": "Wart",
+                "site_detail_url": "https://www.giantbomb.com/wart/3005-831/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/enemy/3005-7263/",
+                "id": 7263,
+                "name": "Yaridovich",
+                "site_detail_url": "https://www.giantbomb.com/yaridovich/3005-7263/"
+            }
+        ],
+        "first_appeared_in_game": {
+            "api_detail_url": "https://www.giantbomb.com/api/game/3030-15544/",
+            "id": 15544,
+            "name": "Super Mario Bros."
+        },
+        "franchises": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-32/",
+                "id": 32,
+                "name": "Animal Crossing",
+                "site_detail_url": "https://www.giantbomb.com/animal-crossing/3025-32/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-708/",
+                "id": 708,
+                "name": "Bemani",
+                "site_detail_url": "https://www.giantbomb.com/bemani/3025-708/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-127/",
+                "id": 127,
+                "name": "Dance Dance Revolution",
+                "site_detail_url": "https://www.giantbomb.com/dance-dance-revolution/3025-127/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-154/",
+                "id": 154,
+                "name": "Donkey Kong",
+                "site_detail_url": "https://www.giantbomb.com/donkey-kong/3025-154/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-160/",
+                "id": 160,
+                "name": "Dragon Quest",
+                "site_detail_url": "https://www.giantbomb.com/dragon-quest/3025-160/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1240/",
+                "id": 1240,
+                "name": "Excite",
+                "site_detail_url": "https://www.giantbomb.com/excite/3025-1240/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-757/",
+                "id": 757,
+                "name": "Excitebike",
+                "site_detail_url": "https://www.giantbomb.com/excitebike/3025-757/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1183/",
+                "id": 1183,
+                "name": "Game & Watch",
+                "site_detail_url": "https://www.giantbomb.com/game-watch/3025-1183/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-2058/",
+                "id": 2058,
+                "name": "Golf",
+                "site_detail_url": "https://www.giantbomb.com/golf/3025-2058/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1094/",
+                "id": 1094,
+                "name": "Itadaki Street",
+                "site_detail_url": "https://www.giantbomb.com/itadaki-street/3025-1094/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-420/",
+                "id": 420,
+                "name": "Kirby",
+                "site_detail_url": "https://www.giantbomb.com/kirby/3025-420/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-2098/",
+                "id": 2098,
+                "name": "Luigi's Mansion",
+                "site_detail_url": "https://www.giantbomb.com/luigis-mansion/3025-2098/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1/",
+                "id": 1,
+                "name": "Mario",
+                "site_detail_url": "https://www.giantbomb.com/mario/3025-1/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1085/",
+                "id": 1085,
+                "name": "Mario & Luigi",
+                "site_detail_url": "https://www.giantbomb.com/mario-luigi/3025-1085/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1223/",
+                "id": 1223,
+                "name": "Mario & Sonic at the Olympic Games",
+                "site_detail_url": "https://www.giantbomb.com/mario-sonic-at-the-olympic-games/3025-1223/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-505/",
+                "id": 505,
+                "name": "Mario Baseball",
+                "site_detail_url": "https://www.giantbomb.com/mario-baseball/3025-505/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-2068/",
+                "id": 2068,
+                "name": "Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/mario-bros/3025-2068/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-506/",
+                "id": 506,
+                "name": "Mario Golf",
+                "site_detail_url": "https://www.giantbomb.com/mario-golf/3025-506/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-507/",
+                "id": 507,
+                "name": "Mario Kart",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart/3025-507/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-508/",
+                "id": 508,
+                "name": "Mario Party",
+                "site_detail_url": "https://www.giantbomb.com/mario-party/3025-508/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-510/",
+                "id": 510,
+                "name": "Mario RPG",
+                "site_detail_url": "https://www.giantbomb.com/mario-rpg/3025-510/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-511/",
+                "id": 511,
+                "name": "Mario Strikers",
+                "site_detail_url": "https://www.giantbomb.com/mario-strikers/3025-511/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-512/",
+                "id": 512,
+                "name": "Mario Tennis",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis/3025-512/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1354/",
+                "id": 1354,
+                "name": "Mario vs. Donkey Kong",
+                "site_detail_url": "https://www.giantbomb.com/mario-vs-donkey-kong/3025-1354/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1197/",
+                "id": 1197,
+                "name": "New Play Control",
+                "site_detail_url": "https://www.giantbomb.com/new-play-control/3025-1197/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1546/",
+                "id": 1546,
+                "name": "New Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/new-super-mario-bros/3025-1546/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1573/",
+                "id": 1573,
+                "name": "Nintendo Vs. Series",
+                "site_detail_url": "https://www.giantbomb.com/nintendo-vs-series/3025-1573/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-460/",
+                "id": 460,
+                "name": "Paper Mario",
+                "site_detail_url": "https://www.giantbomb.com/paper-mario/3025-460/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1230/",
+                "id": 1230,
+                "name": "Picross",
+                "site_detail_url": "https://www.giantbomb.com/picross/3025-1230/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-383/",
+                "id": 383,
+                "name": "Sonic the Hedgehog",
+                "site_detail_url": "https://www.giantbomb.com/sonic-the-hedgehog/3025-383/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-643/",
+                "id": 643,
+                "name": "Super Mario",
+                "site_detail_url": "https://www.giantbomb.com/super-mario/3025-643/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1900/",
+                "id": 1900,
+                "name": "Super Mario Advance",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-advance/3025-1900/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1899/",
+                "id": 1899,
+                "name": "Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros/3025-1899/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1347/",
+                "id": 1347,
+                "name": "Super Mario Galaxy",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-galaxy/3025-1347/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1898/",
+                "id": 1898,
+                "name": "Super Mario Land",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-land/3025-1898/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-1897/",
+                "id": 1897,
+                "name": "Super Mario World",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-world/3025-1897/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-318/",
+                "id": 318,
+                "name": "Super Smash Bros.",
+                "site_detail_url": "https://www.giantbomb.com/super-smash-bros/3025-318/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-619/",
+                "id": 619,
+                "name": "Taiko no Tatsujin",
+                "site_detail_url": "https://www.giantbomb.com/taiko-no-tatsujin/3025-619/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-291/",
+                "id": 291,
+                "name": "Tetris",
+                "site_detail_url": "https://www.giantbomb.com/tetris/3025-291/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/franchise/3025-221/",
+                "id": 221,
+                "name": "Wario",
+                "site_detail_url": "https://www.giantbomb.com/wario/3025-221/"
+            }
+        ],
+        "friends": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-957/",
+                "id": 957,
+                "name": "Birdo",
+                "site_detail_url": "https://www.giantbomb.com/birdo/3005-957/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-10378/",
+                "id": 10378,
+                "name": "Brighton",
+                "site_detail_url": "https://www.giantbomb.com/brighton/3005-10378/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-7696/",
+                "id": 7696,
+                "name": "Chancellor",
+                "site_detail_url": "https://www.giantbomb.com/chancellor/3005-7696/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-13471/",
+                "id": 13471,
+                "name": "Guppy",
+                "site_detail_url": "https://www.giantbomb.com/guppy/3005-13471/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-22461/",
+                "id": 22461,
+                "name": "Honey Queen",
+                "site_detail_url": "https://www.giantbomb.com/honey-queen/3005-22461/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-10401/",
+                "id": 10401,
+                "name": "Koopa Kid",
+                "site_detail_url": "https://www.giantbomb.com/koopa-kid/3005-10401/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-370/",
+                "id": 370,
+                "name": "Luigi",
+                "site_detail_url": "https://www.giantbomb.com/luigi/3005-370/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-15477/",
+                "id": 15477,
+                "name": "Mailtoad",
+                "site_detail_url": "https://www.giantbomb.com/mailtoad/3005-15477/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-177/",
+                "id": 177,
+                "name": "Mario",
+                "site_detail_url": "https://www.giantbomb.com/mario/3005-177/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-10338/",
+                "id": 10338,
+                "name": "MC Ballyhoo and Big Top",
+                "site_detail_url": "https://www.giantbomb.com/mc-ballyhoo-and-big-top/3005-10338/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-807/",
+                "id": 807,
+                "name": "Princess Daisy",
+                "site_detail_url": "https://www.giantbomb.com/princess-daisy/3005-807/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-709/",
+                "id": 709,
+                "name": "Princess Peach",
+                "site_detail_url": "https://www.giantbomb.com/princess-peach/3005-709/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-1776/",
+                "id": 1776,
+                "name": "Professor E. Gadd",
+                "site_detail_url": "https://www.giantbomb.com/professor-e-gadd/3005-1776/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-9459/",
+                "id": 9459,
+                "name": "Queen Bean",
+                "site_detail_url": "https://www.giantbomb.com/queen-bean/3005-9459/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-1296/",
+                "id": 1296,
+                "name": "Toadette",
+                "site_detail_url": "https://www.giantbomb.com/toadette/3005-1296/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-1304/",
+                "id": 1304,
+                "name": "Toadsworth",
+                "site_detail_url": "https://www.giantbomb.com/toadsworth/3005-1304/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-10379/",
+                "id": 10379,
+                "name": "Twila",
+                "site_detail_url": "https://www.giantbomb.com/twila/3005-10379/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/friend/3005-700/",
+                "id": 700,
+                "name": "Yoshi",
+                "site_detail_url": "https://www.giantbomb.com/yoshi/3005-700/"
+            }
+        ],
+        "games": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-81829/",
+                "id": 81829,
+                "name": "Mario Golf: Super Rush",
+                "site_detail_url": "https://www.giantbomb.com/mario-golf-super-rush/3030-81829/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-80463/",
+                "id": 80463,
+                "name": "Super Mario 3D All-Stars",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-3d-all-stars/3030-80463/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-70240/",
+                "id": 70240,
+                "name": "Luigi's Mansion 3",
+                "site_detail_url": "https://www.giantbomb.com/luigis-mansion-3/3030-70240/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-66089/",
+                "id": 66089,
+                "name": "Mario Kart Tour",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-tour/3030-66089/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-71968/",
+                "id": 71968,
+                "name": "Dr. Mario World",
+                "site_detail_url": "https://www.giantbomb.com/dr-mario-world/3030-71968/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-72141/",
+                "id": 72141,
+                "name": "Super Mario Maker 2",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-maker-2/3030-72141/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-66900/",
+                "id": 66900,
+                "name": "Super Smash Bros. Ultimate",
+                "site_detail_url": "https://www.giantbomb.com/super-smash-bros-ultimate/3030-66900/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-68947/",
+                "id": 68947,
+                "name": "Super Mario Party",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-party/3030-68947/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-64951/",
+                "id": 64951,
+                "name": "Mario Tennis Aces",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis-aces/3030-64951/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-61338/",
+                "id": 61338,
+                "name": "Mario Party: The Top 100",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-the-top-100/3030-61338/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-59637/",
+                "id": 59637,
+                "name": "Mario + Rabbids: Kingdom Battle",
+                "site_detail_url": "https://www.giantbomb.com/mario-rabbids-kingdom-battle/3030-59637/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-55407/",
+                "id": 55407,
+                "name": "Super Mario Run",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-run/3030-55407/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-54246/",
+                "id": 54246,
+                "name": "Mario Party: Star Rush",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-star-rush/3030-54246/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-52917/",
+                "id": 52917,
+                "name": "Paper Mario: Color Splash",
+                "site_detail_url": "https://www.giantbomb.com/paper-mario-color-splash/3030-52917/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-49802/",
+                "id": 49802,
+                "name": "Mario & Sonic at the Rio 2016 Olympic Games",
+                "site_detail_url": "https://www.giantbomb.com/mario-sonic-at-the-rio-2016-olympic-games/3030-49802/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-52322/",
+                "id": 52322,
+                "name": "Mini Mario & Friends: amiibo Challenge",
+                "site_detail_url": "https://www.giantbomb.com/mini-mario-and-friends-amiibo-challenge/3030-52322/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-49996/",
+                "id": 49996,
+                "name": "Mario & Luigi: Paper Jam",
+                "site_detail_url": "https://www.giantbomb.com/mario-luigi-paper-jam/3030-49996/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-49997/",
+                "id": 49997,
+                "name": "Mario Tennis: Ultra Smash",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis-ultra-smash/3030-49997/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-50604/",
+                "id": 50604,
+                "name": "Picross 3D: Round 2",
+                "site_detail_url": "https://www.giantbomb.com/picross-3d-round-2/3030-50604/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-46580/",
+                "id": 46580,
+                "name": "Super Mario Maker",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-maker/3030-46580/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-48518/",
+                "id": 48518,
+                "name": "Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition",
+                "site_detail_url": "https://www.giantbomb.com/puzzle-dragons-z-puzzle-dragons-super-mario-bros-e/3030-48518/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-51528/",
+                "id": 51528,
+                "name": "Puzzle & Dragons: Super Mario Bros. Edition",
+                "site_detail_url": "https://www.giantbomb.com/puzzle-dragons-super-mario-bros-edition/3030-51528/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-46586/",
+                "id": 46586,
+                "name": "Mario Party 10",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-10/3030-46586/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-51471/",
+                "id": 51471,
+                "name": "Nintendo Badge Arcade",
+                "site_detail_url": "https://www.giantbomb.com/nintendo-badge-arcade/3030-51471/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-35573/",
+                "id": 35573,
+                "name": "Super Smash Bros. for Wii U/Nintendo 3DS",
+                "site_detail_url": "https://www.giantbomb.com/super-smash-bros-for-wii-u-nintendo-3ds/3030-35573/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-42929/",
+                "id": 42929,
+                "name": "Mario Kart 8",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-8/3030-42929/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-41570/",
+                "id": 41570,
+                "name": "Mario Golf: World Tour",
+                "site_detail_url": "https://www.giantbomb.com/mario-golf-world-tour/3030-41570/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-45415/",
+                "id": 45415,
+                "name": "NES Remix 2",
+                "site_detail_url": "https://www.giantbomb.com/nes-remix-2/3030-45415/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-45416/",
+                "id": 45416,
+                "name": "NES Remix Pack",
+                "site_detail_url": "https://www.giantbomb.com/nes-remix-pack/3030-45416/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-44783/",
+                "id": 44783,
+                "name": "NES Remix",
+                "site_detail_url": "https://www.giantbomb.com/nes-remix/3030-44783/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-42400/",
+                "id": 42400,
+                "name": "Mario Party: Island Tour",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-island-tour/3030-42400/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-42931/",
+                "id": 42931,
+                "name": "Super Mario 3D World",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-3d-world/3030-42931/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-45978/",
+                "id": 45978,
+                "name": "Taiko no Tatsujin: Wii U Version",
+                "site_detail_url": "https://www.giantbomb.com/taiko-no-tatsujin-wii-u-version/3030-45978/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-41500/",
+                "id": 41500,
+                "name": "Mario Kart: Arcade GP DX",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-arcade-gp-dx/3030-41500/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-42657/",
+                "id": 42657,
+                "name": "New Super Luigi U",
+                "site_detail_url": "https://www.giantbomb.com/new-super-luigi-u/3030-42657/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-41583/",
+                "id": 41583,
+                "name": "Mario and Donkey Kong: Minis on the Move",
+                "site_detail_url": "https://www.giantbomb.com/mario-and-donkey-kong-minis-on-the-move/3030-41583/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-35572/",
+                "id": 35572,
+                "name": "Luigi's Mansion: Dark Moon",
+                "site_detail_url": "https://www.giantbomb.com/luigis-mansion-dark-moon/3030-35572/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-35574/",
+                "id": 35574,
+                "name": "New Super Mario Bros. U",
+                "site_detail_url": "https://www.giantbomb.com/new-super-mario-bros-u/3030-35574/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-36392/",
+                "id": 36392,
+                "name": "Mario Tennis Open",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis-open/3030-36392/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-35578/",
+                "id": 35578,
+                "name": "Mario Party 9",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-9/3030-35578/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-37185/",
+                "id": 37185,
+                "name": "Kiki Trick",
+                "site_detail_url": "https://www.giantbomb.com/kiki-trick/3030-37185/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-37263/",
+                "id": 37263,
+                "name": "Abobo's Big Adventure",
+                "site_detail_url": "https://www.giantbomb.com/abobos-big-adventure/3030-37263/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-35610/",
+                "id": 35610,
+                "name": "Fortune Street",
+                "site_detail_url": "https://www.giantbomb.com/fortune-street/3030-35610/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-31747/",
+                "id": 31747,
+                "name": "Mario Kart 7",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-7/3030-31747/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-34986/",
+                "id": 34986,
+                "name": "Mario & Sonic at the London 2012 Olympic Games",
+                "site_detail_url": "https://www.giantbomb.com/mario-sonic-at-the-london-2012-olympic-games/3030-34986/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-34303/",
+                "id": 34303,
+                "name": "Super Mario 3D Land",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-3d-land/3030-34303/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-31726/",
+                "id": 31726,
+                "name": "Mario Sports Mix",
+                "site_detail_url": "https://www.giantbomb.com/mario-sports-mix/3030-31726/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-31742/",
+                "id": 31742,
+                "name": "Mario vs. Donkey Kong: Mini-Land Mayhem",
+                "site_detail_url": "https://www.giantbomb.com/mario-vs-donkey-kong-mini-land-mayhem/3030-31742/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-26839/",
+                "id": 26839,
+                "name": "Super Mario Galaxy 2",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-galaxy-2/3030-26839/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-25318/",
+                "id": 25318,
+                "name": "Mario & Sonic at the Olympic Winter Games",
+                "site_detail_url": "https://www.giantbomb.com/mario-sonic-at-the-olympic-winter-games/3030-25318/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-26854/",
+                "id": 26854,
+                "name": "Mario vs. Donkey Kong: Minis March Again!",
+                "site_detail_url": "https://www.giantbomb.com/mario-vs-donkey-kong-minis-march-again/3030-26854/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-23983/",
+                "id": 23983,
+                "name": "Mario & Luigi: Bowser's Inside Story",
+                "site_detail_url": "https://www.giantbomb.com/mario-luigi-bowsers-inside-story/3030-23983/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-24304/",
+                "id": 24304,
+                "name": "Taiko no Tatsujin Wii",
+                "site_detail_url": "https://www.giantbomb.com/taiko-no-tatsujin-wii/3030-24304/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-21096/",
+                "id": 21096,
+                "name": "Animal Crossing: City Folk",
+                "site_detail_url": "https://www.giantbomb.com/animal-crossing-city-folk/3030-21096/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-21084/",
+                "id": 21084,
+                "name": "Kirby: Super Star Ultra",
+                "site_detail_url": "https://www.giantbomb.com/kirby-super-star-ultra/3030-21084/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-20948/",
+                "id": 20948,
+                "name": "Mario Super Sluggers",
+                "site_detail_url": "https://www.giantbomb.com/mario-super-sluggers/3030-20948/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-20645/",
+                "id": 20645,
+                "name": "Mario Kart Wii",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-wii/3030-20645/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-20588/",
+                "id": 20588,
+                "name": "Super Smash Bros. Brawl",
+                "site_detail_url": "https://www.giantbomb.com/super-smash-bros-brawl/3030-20588/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-21186/",
+                "id": 21186,
+                "name": "Mario Party DS",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-ds/3030-21186/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-15205/",
+                "id": 15205,
+                "name": "Mario & Sonic at the Olympic Games",
+                "site_detail_url": "https://www.giantbomb.com/mario-sonic-at-the-olympic-games/3030-15205/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-22176/",
+                "id": 22176,
+                "name": "Taiko no Tatsujin DS",
+                "site_detail_url": "https://www.giantbomb.com/taiko-no-tatsujin-ds/3030-22176/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-24044/",
+                "id": 24044,
+                "name": "Itadaki Street DS",
+                "site_detail_url": "https://www.giantbomb.com/itadaki-street-ds/3030-24044/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-8362/",
+                "id": 8362,
+                "name": "Mario Party 8",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-8/3030-8362/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-6718/",
+                "id": 6718,
+                "name": "Mario Strikers Charged",
+                "site_detail_url": "https://www.giantbomb.com/mario-strikers-charged/3030-6718/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12739/",
+                "id": 12739,
+                "name": "Super Paper Mario",
+                "site_detail_url": "https://www.giantbomb.com/super-paper-mario/3030-12739/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-25285/",
+                "id": 25285,
+                "name": "Mario Kart Arcade GP 2",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-arcade-gp-2/3030-25285/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-19090/",
+                "id": 19090,
+                "name": "Mario vs. Donkey Kong 2: March of the Minis",
+                "site_detail_url": "https://www.giantbomb.com/mario-vs-donkey-kong-2-march-of-the-minis/3030-19090/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-8224/",
+                "id": 8224,
+                "name": "New Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/new-super-mario-bros/3030-8224/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-9882/",
+                "id": 9882,
+                "name": "Super Princess Peach",
+                "site_detail_url": "https://www.giantbomb.com/super-princess-peach/3030-9882/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-15439/",
+                "id": 15439,
+                "name": "Mario & Luigi: Partners in Time",
+                "site_detail_url": "https://www.giantbomb.com/mario-luigi-partners-in-time/3030-15439/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12476/",
+                "id": 12476,
+                "name": "Super Mario Strikers",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-strikers/3030-12476/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-6539/",
+                "id": 6539,
+                "name": "Mario Kart DS",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-ds/3030-6539/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-7508/",
+                "id": 7508,
+                "name": "Mario Party 7",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-7/3030-7508/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-16639/",
+                "id": 16639,
+                "name": "Dance Dance Revolution: Mario Mix",
+                "site_detail_url": "https://www.giantbomb.com/dance-dance-revolution-mario-mix/3030-16639/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-22373/",
+                "id": 22373,
+                "name": "Mario Kart Arcade GP",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-arcade-gp/3030-22373/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12847/",
+                "id": 12847,
+                "name": "Mario Tennis: Power Tour",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis-power-tour/3030-12847/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-814/",
+                "id": 814,
+                "name": "Mario Superstar Baseball",
+                "site_detail_url": "https://www.giantbomb.com/mario-superstar-baseball/3030-814/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-29145/",
+                "id": 29145,
+                "name": "Yakuman DS",
+                "site_detail_url": "https://www.giantbomb.com/yakuman-ds/3030-29145/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-5995/",
+                "id": 5995,
+                "name": "Mario Party Advance",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-advance/3030-5995/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-8380/",
+                "id": 8380,
+                "name": "Mario Party 6",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-6/3030-8380/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-8942/",
+                "id": 8942,
+                "name": "Super Mario 64 DS",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-64-ds/3030-8942/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-15398/",
+                "id": 15398,
+                "name": "Mario Power Tennis",
+                "site_detail_url": "https://www.giantbomb.com/mario-power-tennis/3030-15398/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-7481/",
+                "id": 7481,
+                "name": "Paper Mario: The Thousand-Year Door",
+                "site_detail_url": "https://www.giantbomb.com/paper-mario-the-thousand-year-door/3030-7481/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-4287/",
+                "id": 4287,
+                "name": "Mario Pinball Land",
+                "site_detail_url": "https://www.giantbomb.com/mario-pinball-land/3030-4287/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-29964/",
+                "id": 29964,
+                "name": "Mario Party Fushigi no Korokoro Catcher",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-fushigi-no-korokoro-catcher/3030-29964/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-18285/",
+                "id": 18285,
+                "name": "Mario vs. Donkey Kong",
+                "site_detail_url": "https://www.giantbomb.com/mario-vs-donkey-kong/3030-18285/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-20058/",
+                "id": 20058,
+                "name": "Mario Golf: Advance Tour",
+                "site_detail_url": "https://www.giantbomb.com/mario-golf-advance-tour/3030-20058/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-18757/",
+                "id": 18757,
+                "name": "Mario Kart: Double Dash!!",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-double-dash/3030-18757/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-9306/",
+                "id": 9306,
+                "name": "Mario & Luigi: Superstar Saga",
+                "site_detail_url": "https://www.giantbomb.com/mario-luigi-superstar-saga/3030-9306/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-3410/",
+                "id": 3410,
+                "name": "Mario Party 5",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-5/3030-3410/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-1598/",
+                "id": 1598,
+                "name": "Mario Golf: Toadstool Tour",
+                "site_detail_url": "https://www.giantbomb.com/mario-golf-toadstool-tour/3030-1598/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-20748/",
+                "id": 20748,
+                "name": "Super Mario Bros. 3: Super Mario Advance 4",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-3-super-mario-advance-4/3030-20748/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-14770/",
+                "id": 14770,
+                "name": "Mario Party-e",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-e/3030-14770/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-1456/",
+                "id": 1456,
+                "name": "Game & Watch Gallery 4",
+                "site_detail_url": "https://www.giantbomb.com/game-watch-gallery-4/3030-1456/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-4660/",
+                "id": 4660,
+                "name": "Mario Party 4",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-4/3030-4660/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-6649/",
+                "id": 6649,
+                "name": "Super Mario Sunshine",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-sunshine/3030-6649/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-17743/",
+                "id": 17743,
+                "name": "Super Smash Bros. Melee",
+                "site_detail_url": "https://www.giantbomb.com/super-smash-bros-melee/3030-17743/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-10996/",
+                "id": 10996,
+                "name": "Luigi's Mansion",
+                "site_detail_url": "https://www.giantbomb.com/luigis-mansion/3030-10996/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-16769/",
+                "id": 16769,
+                "name": "Mario Kart: Super Circuit",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-super-circuit/3030-16769/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12893/",
+                "id": 12893,
+                "name": "Animal Crossing",
+                "site_detail_url": "https://www.giantbomb.com/animal-crossing/3030-12893/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-5215/",
+                "id": 5215,
+                "name": "Super Mario Advance",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-advance/3030-5215/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12447/",
+                "id": 12447,
+                "name": "Mario Party 3",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-3/3030-12447/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-29973/",
+                "id": 29973,
+                "name": "Mario Tennis",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis/3030-29973/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-19929/",
+                "id": 19929,
+                "name": "Paper Mario",
+                "site_detail_url": "https://www.giantbomb.com/paper-mario/3030-19929/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-6073/",
+                "id": 6073,
+                "name": "Mario Tennis",
+                "site_detail_url": "https://www.giantbomb.com/mario-tennis/3030-6073/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12162/",
+                "id": 12162,
+                "name": "Mario Party 2",
+                "site_detail_url": "https://www.giantbomb.com/mario-party-2/3030-12162/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-21201/",
+                "id": 21201,
+                "name": "Mario Artist: Paint Studio",
+                "site_detail_url": "https://www.giantbomb.com/mario-artist-paint-studio/3030-21201/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-19716/",
+                "id": 19716,
+                "name": "Mario Golf",
+                "site_detail_url": "https://www.giantbomb.com/mario-golf/3030-19716/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-7314/",
+                "id": 7314,
+                "name": "Super Mario Bros. Deluxe",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-deluxe/3030-7314/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-17416/",
+                "id": 17416,
+                "name": "Game & Watch Gallery 3",
+                "site_detail_url": "https://www.giantbomb.com/game-watch-gallery-3/3030-17416/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-23181/",
+                "id": 23181,
+                "name": "Picross NP",
+                "site_detail_url": "https://www.giantbomb.com/picross-np/3030-23181/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-6424/",
+                "id": 6424,
+                "name": "Mario Party",
+                "site_detail_url": "https://www.giantbomb.com/mario-party/3030-6424/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-24032/",
+                "id": 24032,
+                "name": "Game Boy Camera",
+                "site_detail_url": "https://www.giantbomb.com/game-boy-camera/3030-24032/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-29968/",
+                "id": 29968,
+                "name": "BS Super Mario Collection",
+                "site_detail_url": "https://www.giantbomb.com/bs-super-mario-collection/3030-29968/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-9957/",
+                "id": 9957,
+                "name": "Game & Watch Gallery 2",
+                "site_detail_url": "https://www.giantbomb.com/game-watch-gallery-2/3030-9957/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-6727/",
+                "id": 6727,
+                "name": "Game & Watch Gallery",
+                "site_detail_url": "https://www.giantbomb.com/game-watch-gallery/3030-6727/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-22786/",
+                "id": 22786,
+                "name": "BS Excitebike Bun Bun Mario Stadium",
+                "site_detail_url": "https://www.giantbomb.com/bs-excitebike-bun-bun-mario-stadium/3030-22786/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-10084/",
+                "id": 10084,
+                "name": "Mario Kart 64",
+                "site_detail_url": "https://www.giantbomb.com/mario-kart-64/3030-10084/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-2931/",
+                "id": 2931,
+                "name": "Super Mario 64",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-64/3030-2931/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-29969/",
+                "id": 29969,
+                "name": "BS Super Mario USA Power Challenge",
+                "site_detail_url": "https://www.giantbomb.com/bs-super-mario-usa-power-challenge/3030-29969/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-9233/",
+                "id": 9233,
+                "name": "Kirby Super Star",
+                "site_detail_url": "https://www.giantbomb.com/kirby-super-star/3030-9233/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-7358/",
+                "id": 7358,
+                "name": "Super Mario RPG: Legend of the Seven Stars",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-rpg-legend-of-the-seven-stars/3030-7358/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-14178/",
+                "id": 14178,
+                "name": "Mario's Tennis",
+                "site_detail_url": "https://www.giantbomb.com/marios-tennis/3030-14178/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-544/",
+                "id": 544,
+                "name": "Super Mario All-Stars & Super Mario World",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-all-stars-super-mario-world/3030-544/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-2582/",
+                "id": 2582,
+                "name": "Wario's Woods",
+                "site_detail_url": "https://www.giantbomb.com/warios-woods/3030-2582/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-18529/",
+                "id": 18529,
+                "name": "Super Mario All-Stars",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-all-stars/3030-18529/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-5443/",
+                "id": 5443,
+                "name": "Mario is Missing!",
+                "site_detail_url": "https://www.giantbomb.com/mario-is-missing/3030-5443/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-19071/",
+                "id": 19071,
+                "name": "Super Mario Kart",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-kart/3030-19071/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-17829/",
+                "id": 17829,
+                "name": "Mario Teaches Typing",
+                "site_detail_url": "https://www.giantbomb.com/mario-teaches-typing/3030-17829/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-24622/",
+                "id": 24622,
+                "name": "Super Mario Bros. Mushroom World",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-mushroom-world/3030-24622/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-24621/",
+                "id": 24621,
+                "name": "Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros/3030-24621/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-8885/",
+                "id": 8885,
+                "name": "NES Open Tournament Golf",
+                "site_detail_url": "https://www.giantbomb.com/nes-open-tournament-golf/3030-8885/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-5877/",
+                "id": 5877,
+                "name": "Nintendo World Championships 1990",
+                "site_detail_url": "https://www.giantbomb.com/nintendo-world-championships-1990/3030-5877/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-19967/",
+                "id": 19967,
+                "name": "Super Mario Bros. / Duck Hunt / World Class Track Meet",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-duck-hunt-world-class-track-meet/3030-19967/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-32012/",
+                "id": 32012,
+                "name": "Super Mario Bros. / Tetris / Nintendo World Cup",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-tetris-nintendo-world-cup/3030-32012/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-12460/",
+                "id": 12460,
+                "name": "Super Mario Bros. / Duck Hunt",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-duck-hunt/3030-12460/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-10299/",
+                "id": 10299,
+                "name": "Super Mario Bros. 3",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-3/3030-10299/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-7406/",
+                "id": 7406,
+                "name": "Super Mario Bros. 2",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-2/3030-7406/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-29974/",
+                "id": 29974,
+                "name": "Satella-Q",
+                "site_detail_url": "https://www.giantbomb.com/satella-q/3030-29974/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-25220/",
+                "id": 25220,
+                "name": "All Night Nippon Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/all-night-nippon-super-mario-bros/3030-25220/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-25221/",
+                "id": 25221,
+                "name": "Super Mario Bros. Special",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-special/3030-25221/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-25222/",
+                "id": 25222,
+                "name": "Vs. Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/vs-super-mario-bros/3030-25222/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-20974/",
+                "id": 20974,
+                "name": "Super Mario Bros.: The Lost Levels",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros-the-lost-levels/3030-20974/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-15544/",
+                "id": 15544,
+                "name": "Super Mario Bros.",
+                "site_detail_url": "https://www.giantbomb.com/super-mario-bros/3030-15544/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/game/3030-78615/",
+                "id": 78615,
+                "name": "Famicom Mini Collection",
+                "site_detail_url": "https://www.giantbomb.com/famicom-mini-collection/3030-78615/"
+            }
+        ],
+        "gender": 1,
+        "guid": "3005-845",
+        "id": 845,
+        "image": {
+            "icon_url": "https://www.giantbomb.com/a/uploads/square_avatar/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "medium_url": "https://www.giantbomb.com/a/uploads/scale_medium/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "screen_url": "https://www.giantbomb.com/a/uploads/screen_medium/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "screen_large_url": "https://www.giantbomb.com/a/uploads/screen_kubrick/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "small_url": "https://www.giantbomb.com/a/uploads/scale_small/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "super_url": "https://www.giantbomb.com/a/uploads/scale_large/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "thumb_url": "https://www.giantbomb.com/a/uploads/scale_avatar/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "tiny_url": "https://www.giantbomb.com/a/uploads/square_mini/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "original_url": "https://www.giantbomb.com/a/uploads/original/9/95666/1907632-new_super_mario_bros._wii_toad.png",
+            "image_tags": "All Images"
+        },
+        "image_tags": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/images/3005-845/?filter=image_tag%3AAll%20Images",
+                "name": "All Images",
+                "total": 48
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/images/3005-845/?filter=image_tag%3AMisc",
+                "name": "Misc",
+                "total": 1
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/images/3005-845/?filter=image_tag%3AOfficial%20Art",
+                "name": "Official Art",
+                "total": 8
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/images/3005-845/?filter=image_tag%3ARenders",
+                "name": "Renders",
+                "total": 11
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/images/3005-845/?filter=image_tag%3AScreenshots",
+                "name": "Screenshots",
+                "total": 19
+            }
+        ],
+        "last_name": null,
+        "locations": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2647/",
+                "id": 2647,
+                "name": "Battle Course 4",
+                "site_detail_url": "https://www.giantbomb.com/battle-course-4/3035-2647/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2697/",
+                "id": 2697,
+                "name": "Block Plaza",
+                "site_detail_url": "https://www.giantbomb.com/block-plaza/3035-2697/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2319/",
+                "id": 2319,
+                "name": "Bowser's Galaxy Reactor",
+                "site_detail_url": "https://www.giantbomb.com/bowsers-galaxy-reactor/3035-2319/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-704/",
+                "id": 704,
+                "name": "Comet Observatory",
+                "site_detail_url": "https://www.giantbomb.com/comet-observatory/3035-704/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2204/",
+                "id": 2204,
+                "name": "Cookie Land",
+                "site_detail_url": "https://www.giantbomb.com/cookie-land/3035-2204/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-1890/",
+                "id": 1890,
+                "name": "Cruise Ship",
+                "site_detail_url": "https://www.giantbomb.com/cruise-ship/3035-1890/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2282/",
+                "id": 2282,
+                "name": "Dry Dry Ruins",
+                "site_detail_url": "https://www.giantbomb.com/dry-dry-ruins/3035-2282/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2321/",
+                "id": 2321,
+                "name": "Grand Finale Galaxy",
+                "site_detail_url": "https://www.giantbomb.com/grand-finale-galaxy/3035-2321/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-494/",
+                "id": 494,
+                "name": "Isle Delfino",
+                "site_detail_url": "https://www.giantbomb.com/isle-delfino/3035-494/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2187/",
+                "id": 2187,
+                "name": "Lottery Shop",
+                "site_detail_url": "https://www.giantbomb.com/lottery-shop/3035-2187/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-199/",
+                "id": 199,
+                "name": "Luigi Circuit",
+                "site_detail_url": "https://www.giantbomb.com/luigi-circuit/3035-199/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-560/",
+                "id": 560,
+                "name": "Luigi Raceway",
+                "site_detail_url": "https://www.giantbomb.com/luigi-raceway/3035-560/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-475/",
+                "id": 475,
+                "name": "Luigi's Mansion",
+                "site_detail_url": "https://www.giantbomb.com/luigis-mansion/3035-475/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2130/",
+                "id": 2130,
+                "name": "Mario Circuit",
+                "site_detail_url": "https://www.giantbomb.com/mario-circuit/3035-2130/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2375/",
+                "id": 2375,
+                "name": "Mario's House",
+                "site_detail_url": "https://www.giantbomb.com/marios-house/3035-2375/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-190/",
+                "id": 190,
+                "name": "Moo Moo Country",
+                "site_detail_url": "https://www.giantbomb.com/moo-moo-country/3035-190/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-239/",
+                "id": 239,
+                "name": "Moo Moo Farm",
+                "site_detail_url": "https://www.giantbomb.com/moo-moo-farm/3035-239/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2315/",
+                "id": 2315,
+                "name": "Mushroom Bridge",
+                "site_detail_url": "https://www.giantbomb.com/mushroom-bridge/3035-2315/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2556/",
+                "id": 2556,
+                "name": "Mushroom Castle",
+                "site_detail_url": "https://www.giantbomb.com/mushroom-castle/3035-2556/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2218/",
+                "id": 2218,
+                "name": "Mushroom Gorge",
+                "site_detail_url": "https://www.giantbomb.com/mushroom-gorge/3035-2218/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2116/",
+                "id": 2116,
+                "name": "Party Tent",
+                "site_detail_url": "https://www.giantbomb.com/party-tent/3035-2116/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2150/",
+                "id": 2150,
+                "name": "Peach Beach",
+                "site_detail_url": "https://www.giantbomb.com/peach-beach/3035-2150/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-3178/",
+                "id": 3178,
+                "name": "Pirate Dream",
+                "site_detail_url": "https://www.giantbomb.com/pirate-dream/3035-3178/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-60/",
+                "id": 60,
+                "name": "Rainbow Road",
+                "site_detail_url": "https://www.giantbomb.com/rainbow-road/3035-60/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-175/",
+                "id": 175,
+                "name": "Rogueport",
+                "site_detail_url": "https://www.giantbomb.com/rogueport/3035-175/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2680/",
+                "id": 2680,
+                "name": "Skyscraper",
+                "site_detail_url": "https://www.giantbomb.com/skyscraper/3035-2680/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-3244/",
+                "id": 3244,
+                "name": "Slimy Spring Galaxy",
+                "site_detail_url": "https://www.giantbomb.com/slimy-spring-galaxy/3035-3244/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2115/",
+                "id": 2115,
+                "name": "Star Carnival",
+                "site_detail_url": "https://www.giantbomb.com/star-carnival/3035-2115/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-352/",
+                "id": 352,
+                "name": "Sub-Con",
+                "site_detail_url": "https://www.giantbomb.com/sub-con/3035-352/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-4583/",
+                "id": 4583,
+                "name": "Sub-Space",
+                "site_detail_url": "https://www.giantbomb.com/sub-space/3035-4583/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-14/",
+                "id": 14,
+                "name": "The Mushroom Kingdom",
+                "site_detail_url": "https://www.giantbomb.com/the-mushroom-kingdom/3035-14/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2636/",
+                "id": 2636,
+                "name": "Thwomp Desert",
+                "site_detail_url": "https://www.giantbomb.com/thwomp-desert/3035-2636/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-2219/",
+                "id": 2219,
+                "name": "Toad's Factory",
+                "site_detail_url": "https://www.giantbomb.com/toads-factory/3035-2219/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/location/3035-372/",
+                "id": 372,
+                "name": "Tropical Island",
+                "site_detail_url": "https://www.giantbomb.com/tropical-island/3035-372/"
+            }
+        ],
+        "name": "Toad",
+        "objects": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-6067/",
+                "id": 6067,
+                "name": "1-Up Mushroom",
+                "site_detail_url": "https://www.giantbomb.com/1up-mushroom/3055-6067/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-6069/",
+                "id": 6069,
+                "name": "3-Up Moon",
+                "site_detail_url": "https://www.giantbomb.com/3up-moon/3055-6069/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-6107/",
+                "id": 6107,
+                "name": "Boomerang Flower",
+                "site_detail_url": "https://www.giantbomb.com/boomerang-flower/3055-6107/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-2036/",
+                "id": 2036,
+                "name": "Carnival Card",
+                "site_detail_url": "https://www.giantbomb.com/carnival-card/3055-2036/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-3599/",
+                "id": 3599,
+                "name": "Diaper",
+                "site_detail_url": "https://www.giantbomb.com/diaper/3055-3599/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-552/",
+                "id": 552,
+                "name": "Go-Kart",
+                "site_detail_url": "https://www.giantbomb.com/go-kart/3055-552/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-5394/",
+                "id": 5394,
+                "name": "Golden Mushroom",
+                "site_detail_url": "https://www.giantbomb.com/golden-mushroom/3055-5394/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-999/",
+                "id": 999,
+                "name": "Mega Mushroom",
+                "site_detail_url": "https://www.giantbomb.com/mega-mushroom/3055-999/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-3124/",
+                "id": 3124,
+                "name": "MSS Sea Star",
+                "site_detail_url": "https://www.giantbomb.com/mss-sea-star/3055-3124/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-1236/",
+                "id": 1236,
+                "name": "Mushroom",
+                "site_detail_url": "https://www.giantbomb.com/mushroom/3055-1236/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-6373/",
+                "id": 6373,
+                "name": "Mushroom Block",
+                "site_detail_url": "https://www.giantbomb.com/mushroom-block/3055-6373/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-421/",
+                "id": 421,
+                "name": "POW block",
+                "site_detail_url": "https://www.giantbomb.com/pow-block/3055-421/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-1444/",
+                "id": 1444,
+                "name": "Radish",
+                "site_detail_url": "https://www.giantbomb.com/radish/3055-1444/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-2471/",
+                "id": 2471,
+                "name": "Sky Crystal",
+                "site_detail_url": "https://www.giantbomb.com/sky-crystal/3055-2471/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-334/",
+                "id": 334,
+                "name": "Smash Ball",
+                "site_detail_url": "https://www.giantbomb.com/smash-ball/3055-334/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-1818/",
+                "id": 1818,
+                "name": "Star",
+                "site_detail_url": "https://www.giantbomb.com/star/3055-1818/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-5788/",
+                "id": 5788,
+                "name": "Super Acorn",
+                "site_detail_url": "https://www.giantbomb.com/super-acorn/3055-5788/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-49/",
+                "id": 49,
+                "name": "Super Mushroom",
+                "site_detail_url": "https://www.giantbomb.com/super-mushroom/3055-49/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-1960/",
+                "id": 1960,
+                "name": "Turnip",
+                "site_detail_url": "https://www.giantbomb.com/turnip/3055-1960/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/object/3055-468/",
+                "id": 468,
+                "name": "Warp Whistle",
+                "site_detail_url": "https://www.giantbomb.com/warp-whistle/3055-468/"
+            }
+        ],
+        "people": [
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-101406/",
+                "id": 101406,
+                "name": "Hiroshi Ikeda",
+                "site_detail_url": "https://www.giantbomb.com/hiroshi-ikeda/3040-101406/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-39054/",
+                "id": 39054,
+                "name": "Jen Taylor",
+                "site_detail_url": "https://www.giantbomb.com/jen-taylor/3040-39054/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-7778/",
+                "id": 7778,
+                "name": "John Stocker",
+                "site_detail_url": "https://www.giantbomb.com/john-stocker/3040-7778/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-66157/",
+                "id": 66157,
+                "name": "Samantha Kelly",
+                "site_detail_url": "https://www.giantbomb.com/samantha-kelly/3040-66157/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-614/",
+                "id": 614,
+                "name": "Shigeru Miyamoto",
+                "site_detail_url": "https://www.giantbomb.com/shigeru-miyamoto/3040-614/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-593/",
+                "id": 593,
+                "name": "Takashi Tezuka",
+                "site_detail_url": "https://www.giantbomb.com/takashi-tezuka/3040-593/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-642/",
+                "id": 642,
+                "name": "Tomohiro Kayano",
+                "site_detail_url": "https://www.giantbomb.com/tomohiro-kayano/3040-642/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-103740/",
+                "id": 103740,
+                "name": "Tomoko Maruno",
+                "site_detail_url": "https://www.giantbomb.com/tomoko-maruno/3040-103740/"
+            },
+            {
+                "api_detail_url": "https://www.giantbomb.com/api/person/3040-607/",
+                "id": 607,
+                "name": "Yoichi Kotabe",
+                "site_detail_url": "https://www.giantbomb.com/yoichi-kotabe/3040-607/"
+            }
+        ],
+        "real_name": null,
+        "site_detail_url": "https://www.giantbomb.com/toad/3005-845/"
+    },
+    "version": "1.0"
+}

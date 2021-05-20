@@ -1,0 +1,30 @@
+@import "@styles/settings/__settings";
+
+
+.productContainer {
+  display: flex;
+  padding-top: 3em;
+}
+
+.productImage {
+  width: 50%;
+  padding-right: 2em;
+}
+
+.productDetails {
+  width: 50%;
+  flex-grow: 0;
+  flex-shrink: 1;
+}
+
+.productTitle {
+  margin: 0;
+}
+
+.productDescription {
+  line-height: 1.4;
+}
+
+.productBuy {
+  margin-top: 1.5em;
+}

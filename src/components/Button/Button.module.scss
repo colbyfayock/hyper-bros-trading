@@ -1,0 +1,12 @@
+@import "@styles/settings/__settings";
+
+.button {
+  font-size: 1em;
+  color: white;
+  font-weight: bold;
+  background-color: $colorGreen;
+  border: none;
+  border-radius: .4em 0 .4em 0;
+  padding: .6em 1em;
+  cursor: pointer;
+}

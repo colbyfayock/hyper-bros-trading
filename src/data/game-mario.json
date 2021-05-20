@@ -1,0 +1,56 @@
+{
+  "error": "OK",
+  "limit": 1,
+  "offset": 0,
+  "number_of_page_results": 1,
+  "number_of_total_results": 1,
+  "status_code": 1,
+  "results": {
+      "name": "Super Mario Bros.",
+      "characters": [
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-177/",
+              "id": 177,
+              "name": "Mario",
+              "site_detail_url": "https://www.giantbomb.com/mario/3005-177/"
+          },
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-337/",
+              "id": 337,
+              "name": "Bowser",
+              "site_detail_url": "https://www.giantbomb.com/bowser/3005-337/"
+          },
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-370/",
+              "id": 370,
+              "name": "Luigi",
+              "site_detail_url": "https://www.giantbomb.com/luigi/3005-370/"
+          },
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-709/",
+              "id": 709,
+              "name": "Princess Peach",
+              "site_detail_url": "https://www.giantbomb.com/princess-peach/3005-709/"
+          },
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-845/",
+              "id": 845,
+              "name": "Toad",
+              "site_detail_url": "https://www.giantbomb.com/toad/3005-845/"
+          },
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-927/",
+              "id": 927,
+              "name": "Lakitu",
+              "site_detail_url": "https://www.giantbomb.com/lakitu/3005-927/"
+          },
+          {
+              "api_detail_url": "https://www.giantbomb.com/api/character/3005-4043/",
+              "id": 4043,
+              "name": "Hammer Bro",
+              "site_detail_url": "https://www.giantbomb.com/hammer-bro/3005-4043/"
+          }
+      ]
+  },
+  "version": "0"
+}
