@@ -12,15 +12,15 @@
 
 .title {
   color: $colorYellow;
-  font-size: 1.5em;
+  font-size: 2em;
   line-height: 1.15;
-  font-family: 'Press Start 2P', sans-serif;
+  font-weight: bold;
+  font-family: $font-family-display;
   text-align: center;
   margin: 0;
 }
 
 .cart {
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,22 +28,22 @@
   color: white;
   font-size: 1.2em;
   margin: 0;
-
-  &:hover {
-
-    color: $colorYellow;
-
-    .cartMenu {
-      display: block;
-    }
-
-  }
-
 }
 
 .cartSubtotal {
   margin: 0;
   cursor: default;
+}
+
+.cartSubtotalButton {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 1em;
+  font-family: $font-family-display;
+  font-weight: bold;
+  background: none;
+  border: none;
 }
 
 .cartIcon {

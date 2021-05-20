@@ -24,11 +24,11 @@ const Header = () => {
           </p>
           <div className={styles.cart}>
             <p className={styles.cartSubtotal}>
-              <a className="snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
+              <button className={`snipcart-checkout snipcart-summary ${styles.cartSubtotalButton}`}>
                 <FaShoppingCart className={styles.cartIcon} />
                 <strong className="sr-only">Cart</strong>
                 <span className="snipcart-total-price">${subtotal.toFixed(2)}</span>
-              </a>
+              </button>
             </p>
           </div>
         </Container>

@@ -31,7 +31,7 @@ export default function Home({ products }) {
               <li id={`product-${id}`} key={id} className={styles.product}>
                 <Link href={`/products/${slug}`}>
                   <a>
-                    <img src={featuredImage.sourceUrl} alt={featuredImage.altText} />
+                    <img className={styles.productImage} src={featuredImage.sourceUrl} alt={featuredImage.altText} />
                     <h2 className={styles.productTitle}>{ title }</h2>
                     <p className={styles.productPrice}>
                       ${ price }

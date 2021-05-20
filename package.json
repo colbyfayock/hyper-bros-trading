@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "cy:open": "cypress open"
+    "start": "next start"
   },
   "dependencies": {
     "@apollo/client": "^3.3.19",

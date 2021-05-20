@@ -33,7 +33,7 @@ export default function ProductPage({ product }) {
             ${product.price}
           </p>
           <p className={styles.productBuy}>
-            <Button className="snipcart-add-item"
+            <Button className={`snipcart-add-item ${styles.productBuyButton}`}
               data-item-id={product.sku}
               data-item-image={product.featuredImage.sourceUrl}
               data-item-name={product.title}

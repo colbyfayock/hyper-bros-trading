@@ -1,4 +1,5 @@
 @import "@styles/settings/__settings";
+@import "@styles/util/__util";
 
 .grid {
   display: grid;
@@ -14,11 +15,27 @@
 }
 
 .productTitle {
-  font-size: 1em;
-  margin: .8em 0 0;
+  font-size: 1.4em;
+  font-family: $font-family-display;
+  font-weight: bold;
+  margin: .4em 0 0;
 }
 
 .productPrice {
   font-size: 1em;
   margin: .4em 0 0;
+}
+
+
+.productImage {
+
+  @extend %card-image;
+  transform: rotate(-2deg) scale(.9) translateY(-1em);
+  transition: transform .1s;
+
+  &:hover {
+    transform: rotate(0) scale(1) translateY(-1em);
+    transition: transform .2s;
+  }
+
 }
