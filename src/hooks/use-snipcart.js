@@ -7,7 +7,7 @@ export function useSnipcart() {
   useEffect(() => {
     function pollToSubscribe() {
       if ( window.Snipcart ) {
-        susbcribe();
+        subscribe();
         return;
       }
       setTimeout(() => pollToSubscribe(), 100)
