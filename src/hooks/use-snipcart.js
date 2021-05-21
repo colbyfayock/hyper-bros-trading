@@ -1,12 +1,35 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 
 export function useSnipcart() {
+  const subscriptionRef = useRef();
   const [state, setState] = useState({});
 
   useEffect(() => {
-    const unsubscribe = window.Snipcart.store.subscribe(() => refreshState());
+    function pollToSubscribe() {
+      if ( window.Snipcart ) {
+        susbcribe();
+        return;
+      }
+      setTimeout(() => pollToSubscribe(), 100)
+    }
     return () => unsubscribe();
   }, []);
+
+  /**
+   * subscribe
+   */
+
+  function subscribe() {
+    subscriptionRef.current = window.Snipcart.store.subscribe(() => refreshState());
+  }
+
+  /**
+   * unsubscribe
+   */
+
+  function unsubscribe() {
+    subscriptionRef.current();
+  }
 
   /**
    * getState
