@@ -12,6 +12,7 @@ export function useSnipcart() {
       }
       setTimeout(() => pollToSubscribe(), 100)
     }
+    pollToSubscribe();
     return () => unsubscribe();
   }, []);
 
