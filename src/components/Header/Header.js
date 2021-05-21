@@ -27,7 +27,7 @@ const Header = () => {
               <button className={`snipcart-checkout snipcart-summary ${styles.cartSubtotalButton}`}>
                 <FaShoppingCart className={styles.cartIcon} />
                 <strong className="sr-only">Cart</strong>
-                <span className="snipcart-total-price">${ subtotal }</span>
+                <span>${ subtotal }</span>
               </button>
             </p>
           </div>

@@ -16,32 +16,18 @@ export function useSnipcartState() {
   const [state, setState] = useState({});
 
   useEffect(() => {
-    function pollToSubscribe() {
+    let unsubscribe;
+
+    (function pollToSubscribe() {
       if ( window.Snipcart ) {
-        subscribe();
+        unsubscribe = window.Snipcart.store.subscribe(() => refreshState());
         return;
       }
       setTimeout(() => pollToSubscribe(), 100)
-    }
-    pollToSubscribe();
-    return () => unsubscribe();
+    })();
+
+    return () => unsubscribe && unsubscribe();
   }, []);
-
-  /**
-   * subscribe
-   */
-
-  function subscribe() {
-    subscriptionRef.current = window.Snipcart.store.subscribe(() => refreshState());
-  }
-
-  /**
-   * unsubscribe
-   */
-
-  function unsubscribe() {
-    subscriptionRef.current();
-  }
 
   /**
    * getState
