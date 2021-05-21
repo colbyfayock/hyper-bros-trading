@@ -9,10 +9,10 @@ export function useSnipcart() {
 
     refreshState();
 
-    const unsubscribe = snipcartRef.current.store.subscribe(() => refreshState());
+    const unsubscribe = snipcartRef.current?.store.subscribe(() => refreshState());
 
-    return () => unsubscribe();
-  }, []);
+    return () => snipcartRef.current && unsubscribe();
+  }, [snipcartRef]);
 
   /**
    * refreshState
@@ -28,7 +28,7 @@ export function useSnipcart() {
    */
 
   function getState() {
-    return snipcartRef.current.store.getState();
+    return snipcartRef.current?.store.getState();
   }
 
   return {
